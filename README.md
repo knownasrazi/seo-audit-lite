@@ -1,12 +1,12 @@
-﻿<div align="center">
+> ![license](https://img.shields.io/github/license/knownasrazi/seo-audit-lite?style=flat-square&color=ebe7e0) ![lang](https://img.shields.io/badge/lang-Lighthouse-lite-ede9e3?style=flat-square) ![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square)
+
+---
+
+<div align="center">
 
 # seo-audit-lite
 
 **SEO you can run locally.**
-
-![license](https://img.shields.io/github/license/knownasrazi/seo-audit-lite?style=flat-square&color=ebe7e0&label=license)
-![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square&label=version)
-![cream](https://img.shields.io/badge/cream-aesthetic-ede9e3?style=flat-square&label=style)
 
 Client-side SEO audit - check meta, headings, and performance in one run.
 
@@ -14,45 +14,31 @@ Client-side SEO audit - check meta, headings, and performance in one run.
 
 ---
 
-## Preview
+## Features
 
-> SEO you can run locally. - built for vibe coders and web developers who ship.
+| Feature | Detail |
+|---------|--------|
+| **Speed** | Local-first, no upload |
+| **Taste** | Cream aesthetic, stone and ink |
+| **Stack** | Lighthouse-lite |
+| **For** | Vibe coders and web developers |
 
-## Stack
+## Why seo-audit-lite?
 
-- Vite + React + TypeScript
-- Tailwind CSS (cream palette)
-- Biome for lint and format
+Web tools should feel like paper. This one does.
 
-## Get started
+- **Private by default** — runs in your browser or on your machine
+- **No lock-in** — export HTML, JSON, or Markdown
+- **Cream** — low contrast, high taste
+
+## Usage
 
 ```bash
 git clone https://github.com/knownasrazi/seo-audit-lite.git
 cd seo-audit-lite
-bun install
 bun run dev
 ```
-seo-audit-lite/
-  src/
-    App.tsx      # app shell
-    index.css    # cream tokens
-  index.html
-  vite.config.ts
-  package.json
-```
-
-## Cream tokens
-
-Cream, stone, and ink - low contrast, high taste.
 
 ## License
 
-[MIT](./LICENSE) + [Razi](https://github.com/knownasrazi)
-
----
-
-<div align="center">
-
-**seo-audit-lite** - Client-side SEO audit - check meta, headings, and performance in one run.
-
-</div>
+[MIT](./LICENSE)
