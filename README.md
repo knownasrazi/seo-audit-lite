@@ -1,6 +1,17 @@
 > ![license](https://img.shields.io/github/license/knownasrazi/seo-audit-lite?style=flat-square&color=ebe7e0) ![lang](https://img.shields.io/badge/lang-Lighthouse-lite-ede9e3?style=flat-square) ![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square)
 
 ---
+## Demo
+
+![Demo](./public/demo.svg)
+
+**Live:** https://knownasrazi.github.io/seo-audit-lite/
+
+> Screenshot is a placeholder — Pages deploys on push to `main`.
+
+---
+
+
 
 <div align="center">
 
